@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3310"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="wires.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3312"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.69130191"
+     inkscape:cx="391.29069"
+     inkscape:cy="445.53616"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3307" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:3.76152;stroke-linecap:round;stroke-dasharray:none"
+       d="m 105.09319,215.81755 0.55023,10.18511 C 72.394529,202.73094 108.11825,105.04132 82.258935,81.183093 l 7.703128,-1.909701 C 110.44288,106.51423 86.72204,192.39169 105.09319,215.81755 Z"
+       id="path3228"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:3.76152;stroke-linecap:round;stroke-dasharray:none"
+       d="m 107.61851,239.41452 1.60061,8.53578 C 49.359767,214.20557 94.864463,155.04051 70.17283,87.988213 l 6.633201,-3.896637 C 102.97788,141.046 57.495584,203.76589 107.61851,239.41452 Z"
+       id="path3228-1"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
