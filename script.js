@@ -19,11 +19,11 @@ const experiments = [
     path: "exp-3D-Photogrammetry",
     number: 4,
   },
-  {
-    title: "Dynamics Exploration of a 3-Degree-of-Freedom System",
-    path: "exp-dynamicsExplorationOf3DOFSystems",
-    number: 5,
-  },
+  // {
+  //   title: "Dynamics Exploration of a 3-Degree-of-Freedom System",
+  //   path: "exp-dynamicsExplorationOf3DOFSystems",
+  //   number: 5,
+  // },
   // {
   //   title: "Heat Transfer Coefficient of a Composite wall",
   //   path: "exp-composite-wall-nitk",
